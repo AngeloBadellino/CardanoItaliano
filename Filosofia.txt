@@ -1,0 +1,21 @@
+﻿Cardano è un progetto che nasce nel 2015 con l’obiettivo di trasformare il modo in cui le criptovalute sono studiate e sviluppate. Il denominatore comune delle varie innovazioni in fase di sviluppo, è la creazione di un ecosistema più bilanciato ed ecosostenibile che non solo soddisfa meglio le esigenze dei propri utilizzatori, ma anche quelli di altri sistemi con cui va ad interagire.
+
+
+Composto da diversi componenti open source, Cardano non nasce con una roadmap definitiva tantomeno con un white paper definito. Piuttosto esso si basa su un insieme di principi, best practice e lascia le strade aperte all’esplorazione sotto le seguenti aree:
+
+
+* Un’architettura composta da diversi layers, che separa quello computazionale da quello legato alla gestione della criptovaluta
+* Sviluppo di componenti core altamente modulari utilizzando programmazione funzionale
+* Gruppi di sviluppatori e ricercatori accademici che competono nella revisione del codice
+* Ingaggio importante di gruppi interdisciplinari a supporto del progetto, come la recente inclusione di un gruppo di esperti InfoSec 
+* Processo continuo di integrazione e modifica  dei white papers e delle implementazioni richiesto dalla scoperta di problemi durante le operazioni revisione.
+* Costruzione di un sistema modificabile anche pesantemente con successivi deploy compatibili con il network esistente (n.p. fork non più necessari)
+* Costruzione di un sistema decentralizzato di raccolta fondi per i futuri sviluppi
+* Una visione a lungo termine che vede le criptovalute utilizzabili in modo semplice sui dispositivi mobile, con un occhio di riguardo alla user experience.
+* Riconoscimento della necessità di poter contabilizzare contabilizzare diversi assets nello stesso registristro decentralizzato (block chain)
+* Creazione di transazioni che includono metadati con lo scopo di poterle integrare nei sistemi legacy con maggiore facilità.
+* Raccogliere dalle altre 1000 criptomonete i punti forti che le rendono veramente utili.
+* Adottare un processo standard ispirato dall’Internet Engineering Task Force, attraverso una fondazione che possa garantire il disegno finale del protocollo
+* Esplorare gli elementi sociali del commercio.
+
+Da questo insieme di idee, lo sviluppo di Cardano è cominciato sia per esplorare la teoria delle criptovalute che per costruire un insieme di strumenti che possano crearne un’astrazione. Il risultato di questo intensivo lavoro è la documentazione prodotta da IOHK che include numerosi risultati di ricerche come la presentazione del linguaggio di scripting utilizzato, un Ontologia degli Smart Contracts ed il progetto Scorex.

@@ -1,0 +1,15 @@
+﻿Cos’è Cardano
+
+
+Cardano è la casa della criptovaluta ADA, che può essere usata per inviare o ricevere fondi. La moneta digitale rappresenta il futuro dei soldi, rende possibile effettuare trasferimenti veloci e diretti, resi sicuri dall’utilizzo della crittografia.
+
+
+Cardano è molto più che una semplice criptovaluta tuttavia. E’ una piattaforma tecnologica che sarà in grado di eseguire quelle applicazioni finanziare usate oggi quotidianamente da individui, organizzazioni e governi di ogni parte del mondo. La piattaforma è stata costruita con un’architettura multilivello, che dona al sistema flessibilità e semplicità di aggiornamento con fork leggeri.
+
+
+Dopo che sarà completato il settlement layer (quello che si occupa della gestione della moneta digitale), sarà aggiunto il computing layer che gestirà gli smart contracts che saranno la futura base del commercio e del business. Cardano eseguirà applicazioni decentralizzate, o DApps, servizi non controllati da una singola entità ma che opereranno su una blockchain.
+
+Questo è il primo progetto blockchain sviluppato con una filosofia scientifica, e l’unico disegnato e costruito da un team globale con eminenti posizioni  accademiche ed ingegneri. Questo per assicurare che la tecnologia sviluppata sia sicura, flessibile e scalabile per poter essere utilizzata da milioni e milioni di persone. Di conseguenza, è stato dedicata molta attenzione all’architettura del progetto da parte degli ingegneri e ricercatori. Sono stati applicati al mondo delle criptovalute in modo rigorosamente scientifico, concetti derivati da sistemi aerospaziali e bancari. Crediamo sia stato fatto per la prima volta.
+
+
+La visione di cardano è che il suo nuovo stile regolato di utilizzo della tecnologia computazionale, porterà ad una migliore inclusione finanziaria fornendo accesso aperto a tutte le persone ai servizi finanziari.
