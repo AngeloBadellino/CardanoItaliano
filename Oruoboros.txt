@@ -1,0 +1,11 @@
+﻿PROOF OF STAKE MINING
+
+
+Cardano utilizza un nuovo algoritmo di tipo proof of stake chiamato Ouroboros, che determina come i singoli nodi sostengono il consenso sull’intero network. Questo algoritmo è una parte fondamentale dell’infrastruttura che supporta la criptovaluta ADA e rappresenta una grande innovazione nella tecnologia blockchain. Ouroboros elimina l’alto fabbisogno energetico del protocollo proof of work, che rappresenta una barriera alla scalabilità della blockchain. Progettato dall’IOHK Chief Scientist, il professor Aggelos Kiayias, Ouroboros è il primo algoritmo proof of stake che è stato matematicamente definito sicuro, ed il primo che è stato approvato ed accettato dalle review del Crypto 2017, la conferenza leader in materia criptovalute. Il livello di sicurezza dimostrato da Ouroboros è paragonabile a quella della blockchain di Bitcoin, che non è mai stata compromessa.
+
+COS'È’ IL PROOF OF STAKE
+
+
+Nel proof of work, per essere ricompensati, i miners investono potenza computazionale in una competizione per costruire un nuovo blocco. Nel proof of stake, invece, il miner che validerà il blocco verrà scelto in modo randomico, proporzionalmente alla dimensione dello stake.
+“Proof” significa provare che i blocchi di transazioni sono legittimi. “Stake” significa il valore relativo (in ADA) posseduto dal nodo. 
+Ci sono stati numerosi tentativi da parte di altre criptovalute di sviluppare un algoritmo proof of stake, tuttavia questi altri algoritmo hanno dimostrato difetti che non li rendono matematicamente sicuri.
