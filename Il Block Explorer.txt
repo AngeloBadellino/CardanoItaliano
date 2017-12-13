@@ -1,0 +1,18 @@
+﻿Il Block Explorer
+Cardano ha il suo Block Explorer. Si tratta di un utile strumento che può essere usato per controllare la cronologia delle transazioni che sono state registrate sulla blockchain di Cardano.
+
+
+Tutte le transazione ADA sono registrate pubblicamente sulla blockchain e tutti i loro dettagli possono essere ricercati e visualizzati. Le informazioni che possono essere verificate sono l’ammontare degli ADA inviati, l’indirizzo pubblico di chi le ha spedite, la data e l’ora della transazione.
+
+Il Block Explorer di Cardano può aiutarti a verificare la transazione sulla testnet di Cardano, quella attiva in questo momento, ed anche sulla versione reale della rete che verrà lanciata presto. (La testnet di Cardano è una versione pilota della rete sulla quale gli ingegneri stanno eseguendo i test per verificarne l’operatività prima)
+
+Un team di sviluppatori stanno lavorando sulle funzionalità del Block Explorer che diventerà una risorsa che conterrà statistiche, grafici e molte altre funzionalità.
+
+  
+
+Come utilizzare il Block Explorer
+Sulla home page, vengono visualizzate tutte le ultime attività registrate sulla blockchain.
+Questa tabella visualizza quale epoch è stata raggiunta dalla blockchain, il corrispondente numero di slot nella stessa epoch, e quanto tempo fa è stato raggiunto questo stato. E’ anche possibile vedere il numero di transazioni, l’ammontare degli ADA trasmessi e al dimensione del blocco. Cliccando sugli slots, è possibile verificare informazioni aggiuntive in merito allo stato della blockchain.
+
+
+La home page presenta anche le Transaction Feed, una tabella sul fondo della pagina che visualizza le ultime transazioni ADA. In questa tabella è possibile verificare l’ID della transazione, la data, l’ora e l’ammontare degli ADA inviati.Cliccando sulla transazione è possibile visualizzare maggiori informazioni. E’ anche possibile cliccare sul ogni indirizzo per visualizzare tutte le informazioni cronologiche legate allo stesso.
